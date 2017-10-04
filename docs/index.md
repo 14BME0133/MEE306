@@ -16,22 +16,22 @@ This a special folde rthat contains everything that's been CC0 [ Creative-Common
 Type1: [LEARNING RESORCES]
 
 SHARE-a-(cc0) 14BME0133 // Github.io // OCFuVIT - Open Course Files Vellore Institute of Technology
-[ 0001.0001 - Worm Gear Drives - Slides ](./OCFuVIT/SLIDESWormGearDrives.pdf)
+[ 0001.0001 - Worm Gear Drives - Slides ](./OCFuVIT/SLIDESWormGearDrives)
 
 SHARE-a-(cc0) 14BME0133 // Github.io // OCFuVIT - Open Course Files Vellore Institute of Technology
-[ 0001.0002 - Helical Gear Drives - Slides ](/OCFuVIT/SLIDESHelicalGearDrives.pdf)
+[ 0001.0002 - Helical Gear Drives - Slides ](/OCFuVIT/SLIDESHelicalGearDrives)
 
 SHARE-a-(cc0) 14BME0133 // Github.io // OCFuVIT - Open Course Files Vellore Institute of Technology
 [ 0001.0003- Gearing and Mechanical Meshing - Slides ](/OCFuVIT/SLIDESgearing101.pdf)
 
 SHARE-a-(cc0) 14BME0133 // Github.io // OCFuVIT - Open Course Files Vellore Institute of Technology
-[ 0001.0004- Clutching in Drives - Slides ](/OCFuVIT/SLIDESClutching.pdf)
+[ 0001.0004- Clutching in Drives - Slides ](*/OCFuVIT/SLIDESClutching.pdf)
 
 SHARE-a-(cc0) 14BME0133 // Github.io // OCFuVIT - Open Course Files Vellore Institute of Technology
-[ 0001.0005- Worm Gear Drives - Slides ](/OCFuVIT/SLIDESBevelGearDrives.pdf)
+[ 0001.0005- Worm Gear Drives - Slides ](master/raw/OCFuVIT/SLIDESBevelGearDrives.pdf)
 
 SHARE-a-(cc0) 14BME0133 // Github.io // OCFuVIT - Open Course Files Vellore Institute of Technology
-[ 0001.0006- Worm Gear Drives - Slides ](/OCFuVIT/SLIDESBraking.pdf)
+[ 0001.0006- Worm Gear Drives - Slides ](/master/raw/OCFuVIT/SLIDESBraking)
   
 Type2: [PRACTICE REFERENCES]
 
