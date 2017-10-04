@@ -13,38 +13,78 @@ This a special folde rthat contains everything that's been CC0 [ Creative-Common
 
 ### Available Downloads 
 
+
+
+[ 0000.0000.0000.0000 MEE306](/SLIDESWormGearDrives)
+
+
+
+[ 0000.0000.0000.0000 MEE306](/SLIDESHelicalGearDrives)
+
+
+
+[ 0000.0000.0000.0000 MEE306](/SLIDESgearing101)
+
+
+
+[ 0000.0000.0000.0000 MEE306](/SLIDESClutching)
+
+
+
+[ 0000.0000.0000.0000 MEE306](/SLIDESBevelGearDrives)
+
+
+
+[ 0000.0000.0000.0000 MEE306](/NUMERICALHelicalGearDrive)
+
+
+
+[ 0000.0000.0000.0000 MEE306](/NUMERICALGearingRackAndPinion)
+
+
+
+[ 0000.0000.0000.0000 MEE306](/NUMERICALDesignOfSpurGearDrive)
+
+
+
+[ 0000.0000.0000.0000 MEE306](/NUMERICALWormWheelDrive)
+
+
+
+[ 0000.0000.0000.0000 MEE306](/SLIDESBraking)
+
+---
+
 Type1: [LEARNING RESORCES]
 
-SHARE-a-(cc0) 14BME0133 // Github.io // OCFuVIT - Open Course Files Vellore Institute of Technology
 [ 0001.0001 - Worm Gear Drives - Slides ](./raw/master/OCFuVIT/SLIDESWormGearDrives)
 
-SHARE-a-(cc0) 14BME0133 // Github.io // OCFuVIT - Open Course Files Vellore Institute of Technology
-[ 0001.0002 - Helical Gear Drives - Slides ](./raw/master/OCFuVIT/SLIDESHelicalGearDrives)
+[ 0001.0002 - Helical Gear Drives - Slides ](/OCFuVIT/SLIDESHelicalGearDrives)
 
-SHARE-a-(cc0) 14BME0133 // Github.io // OCFuVIT - Open Course Files Vellore Institute of Technology
+
 [ 0001.0003- Gearing and Mechanical Meshing - Slides ](./raw/master/OCFuVIT/SLIDESgearing101.pdf)
 
-SHARE-a-(cc0) 14BME0133 // Github.io // OCFuVIT - Open Course Files Vellore Institute of Technology
+
 [ 0001.0004- Clutching in Drives - Slides ](./raw/master/OCFuVIT/SLIDESClutching.pdf)
 
-SHARE-a-(cc0) 14BME0133 // Github.io // OCFuVIT - Open Course Files Vellore Institute of Technology
+
 [ 0001.0005- Worm Gear Drives - Slides ](/raw/masterOCFuVIT/SLIDESBevelGearDrives.pdf)
 
-SHARE-a-(cc0) 14BME0133 // Github.io // OCFuVIT - Open Course Files Vellore Institute of Technology
-[ 0001.0006- Worm Gear Drives - Slides ](./raw/master/OCFuVIT/SLIDESBraking)
+
+[ 0001.0006- Worm Gear Drives - Slides ](?OCFuVIT/SLIDESBraking)
   
 Type2: [PRACTICE REFERENCES]
 
-SHARE-a-(cc0) 14BME0133 // Github.io // OCFuVIT - Open Course Files Vellore Institute of Technology
+
 [ 0002.0001 - Helical Gear Drive - [SOLVED] Numericals) ](./OCFuVIT/NUMERICALHelicalGearDrive)
 
-SHARE-a-(cc0) 14BME0133 // Github.io // OCFuVIT - Open Course Files Vellore Institute of Technology
-[ 0002.0002 - Drive - [SOLVED] Numericals) ](./OCFuVIT/NUMERICALGearingRackAndPinion)
 
-SHARE-a-(cc0) 14BME0133 // Github.io // OCFuVIT - Open Course Files Vellore Institute of Technology
-[ 0002.0003 - Design of a Spur Gear Drive - [SOLVED] Numericals) ](./raw/master/OCFuVIT/NUMERICALDesignOfSpurGearDrive)
+[ 0002.0002 - Drive - [SOLVED] Numericals) ](/OCFuVIT/NUMERICALGearingRackAndPinion)
 
-SHARE-a-(cc0) 14BME0133 // Github.io // OCFuVIT - Open Course Files Vellore Institute of Technology
+
+[ 0002.0003 - Design of a Spur Gear Drive - [SOLVED] Numericals) ](./NUMERICALDesignOfSpurGearDrive)
+
+
 [ 0002.0004 - Design of a Worm Wheel Drive - [SOLVED] Numericals) ](./raw/master/OCFuVIT/NUMERICALWormWheelDrive)
   
   
